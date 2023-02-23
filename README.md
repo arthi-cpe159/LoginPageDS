@@ -1,4 +1,5 @@
 User Authentication and Session Management API
+
 This repository contains the code for an API designed to authenticate users, exchange public and private keys, store user data securely, and initiate sessions for authenticated users.
 
 Entity: User
